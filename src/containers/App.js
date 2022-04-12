@@ -38,7 +38,7 @@ class App extends Component {
       return robot.name.toLowerCase().includes(searchField.toLowerCase());
     })
     return (
-      <div className='tc'>
+      <div className='tc mainDiv'>
         <h1 className='f1'>RoboFriends</h1>
         <SearchBox searchChange={onSearchChange}/>
         <Scroll>
