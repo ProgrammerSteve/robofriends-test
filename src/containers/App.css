@@ -9,7 +9,8 @@ src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
 
 .mainDiv{
-  width:100%;
+  width:85%;
+  margin-inline:auto;
 }
 
 h1 {
