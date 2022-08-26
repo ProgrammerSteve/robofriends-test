@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ProgrammerSteve.github.io/robofriends-pwa",
+  "homepage": "https://programmersteve.github.io/robofriends-test/",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
